@@ -36,7 +36,7 @@ print(country)
 # Countires.insert(5, "korea")
 # Countires[5] = "america"
 
-# Countires[1:4]
+Countires[1:4]
 
-# print(Countires[0])
+print(Countires[0])
 
